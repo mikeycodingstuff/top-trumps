@@ -35,4 +35,4 @@ Composer install
 ```
 The application will now be available wherever you access it
 ### Author
-- Mikey Ying - [@mikeycodingstuff](https://github.com/mikeycodingstuff)
+Mikey Ying - [@mikeycodingstuff](https://github.com/mikeycodingstuff)
