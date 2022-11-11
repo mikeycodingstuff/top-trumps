@@ -1,2 +1,3 @@
-# top-trumps
-transformers top trumps app
+# Top Trumps App
+
+A transformers top trumps app made using PHP and an SQL database.
