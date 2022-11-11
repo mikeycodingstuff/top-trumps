@@ -1,5 +1,5 @@
 # Top Trumps App
 
-## Description
+### Description
 
 A transformers top trumps app made using PHP and an SQL database.
