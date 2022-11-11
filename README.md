@@ -1,4 +1,4 @@
-# Top Trumps App
+# Transformers Top Trumps App
 
 ### Description
 
