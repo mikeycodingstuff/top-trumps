@@ -1,0 +1,72 @@
+$background-color: #94618E;
+$card-color: #F8EEE7;
+$dark-text: #49274A;
+$card-highlight: #F3E8D7;
+$btn-color: #956d4c;
+$btn-select-color: #725034;
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: $background-color;
+    margin: 0;
+}
+
+.game-title {
+    background-color: $background-color;
+    color: $card-color;
+    h1 {
+        font-size: 4rem;
+    }
+
+    h2 {
+        font-size: 2.5rem;
+    }
+}
+
+.transformer-div {
+    background-color: $card-color;
+    border: none;
+    color: $dark-text;
+
+    h2 {
+        font-size: 3rem;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+        font-weight: normal;
+    }
+
+    .img-container {
+        max-width: 40%;
+    }
+
+    .card-footer {
+        background-color: $card-highlight;
+        border: none;
+
+        form {
+            margin: 0;
+        }
+    }
+
+    .select-btn {
+        background-color: $btn-color;
+        transition-duration: 0.2s;
+        color: $card-color;
+        font-size: 1.5rem;
+        
+        &:hover {
+            background-color: $btn-select-color;
+            box-shadow: 0 1px 4px rgb(0 0 0 / 22%)
+        }
+    }
+}
+
+.leaderboard-container {
+    background-color: $card-color;
+    color: $dark-text;
+}
